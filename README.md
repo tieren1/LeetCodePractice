@@ -1,2 +1,2 @@
 # LeetCodePractice
-Leetcode practice
+Leetcode practice in Kotlin
